@@ -1,0 +1,21 @@
+{
+  "name": "turf_circle",
+  "homepage": "https://github.com/bwyss/turf_circle",
+  "authors": [
+    "Ben <ben@enview.com>"
+  ],
+  "description": "The circle module from Turf",
+  "main": "turf_circle.min.js",
+  "keywords": [
+    "turf",
+    "circle"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
