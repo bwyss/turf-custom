@@ -5,7 +5,7 @@
     "Ben <ben@enview.com>"
   ],
   "description": "The circle module from Turf",
-  "main": "turf_circle.js",
+  "main": "turf_circle_distance.min.js",
   "keywords": [
     "turf",
     "circle"
