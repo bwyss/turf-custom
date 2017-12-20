@@ -1,3 +1,11 @@
-# turf custom
+# Turf Custom
+Use custom Turfjs with bower. Includes these modules:
+  - circle
+  - centroid
+  - distance
+  - invariant
+  - helpers
 
-Includes the circle, centroid, distance and invariant modules from https://turfjs-builder.herokuapp.com/
+ [From turfjs][df1]
+
+   [df1]: <https://turfjs-builder.herokuapp.com/>
