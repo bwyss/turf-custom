@@ -5,6 +5,7 @@ Use custom Turfjs with bower. Includes these modules:
   - distance
   - invariant
   - helpers
+  - envelope
 
  [From turfjs][df1]
 
