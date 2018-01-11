@@ -1,11 +1,14 @@
 # Turf Custom
 Use custom Turfjs with bower. Includes these modules:
-  - circle
+  - buffer
   - centroid
+  - circle
   - distance
-  - invariant
-  - helpers
   - envelope
+  - helpers
+  - invariant
+  
+  
 
  [From turfjs][df1]
 
