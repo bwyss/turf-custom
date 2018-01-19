@@ -4,7 +4,7 @@
   "authors": [
     "Ben <ben@enview.com>"
   ],
-  "description": "Includes the circle, centroid, distance, helpers and invariant modules from https://turfjs-builder.herokuapp.com/",
+  "description": "Includes the custom modules from https://turfjs-builder.herokuapp.com/",
   "main": "build/v4.7.3/turf_custom.min.js",
   "keywords": [
     "turf"
