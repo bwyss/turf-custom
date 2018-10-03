@@ -3,6 +3,7 @@ Use custom Turfjs with bower. Includes these modules:
   - buffer
   - centroid
   - circle
+  - bearing
   - destination
   - distance
   - envelope
