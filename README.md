@@ -1,14 +1,15 @@
 # Turf Custom
 Use custom Turfjs with bower. Includes these modules:
   - buffer
+  - bearing
   - centroid
   - circle
-  - bearing
   - destination
   - distance
   - envelope
   - helpers
   - invariant
+  - nearest-point
   
 
  [From turfjs][df1]
