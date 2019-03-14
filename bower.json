@@ -5,7 +5,7 @@
     "Ben <ben@enview.com>"
   ],
   "description": "Includes the custom modules from https://turfjs-builder.herokuapp.com/",
-  "main": "build/v5.1.6/turf.min.js",
+  "main": "build/v0.10.0/turf.min.js",
   "keywords": [
     "turf"
   ],
